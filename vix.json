@@ -1,14 +1,17 @@
 {
   "name": "csv",
-  "namespace": "gaspardkirira",
-  "version": "0.1.0",
+  "namespace": "gk",
+  "version": "1.0.0",
   "type": "header-only",
   "include": "include",
   "license": "MIT",
-  "description": "A tiny header-only C++ library.",
+  "description": "Modern, header-only C++20 library for robust and high-performance CSV parsing and writing, with full support for quoted fields, custom separators, comments, and large datasets.",
   "keywords": [
     "cpp",
     "header-only",
+    "csv",
+    "parsing",
+    "serialization",
     "vix"
   ],
   "repository": "https://github.com/Gaspardkirira/csv",
